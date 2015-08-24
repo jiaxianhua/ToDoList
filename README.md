@@ -4,10 +4,12 @@ ToDoList
 《马上着手开发 iOS 应用程序》最终版源码。
 
 Xcode 6.4
+
 SDK 8.4
 
 <https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/>
-<<Start Developing iOS Apps Today>> Final Source Code.
+
+《Start Developing iOS Apps Today》 Final Source Code.
 
 Start Developing iOS Apps Today
 
